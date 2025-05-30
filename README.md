@@ -2,7 +2,7 @@
 
 #### Resumo:
 
-- Projeto ciência de dados com foco na análise e modelagem estatística para cálculo da taxa de contaminação de indivíduos
+- Projeto de ciência de dados com foco na análise e modelagem estatística para cálculo da taxa de contaminação de indivíduos
 
 #### Pastas:
 
