@@ -1,16 +1,16 @@
 ## OMS
 
-#### Resumo:
+### Resumo:
 
 - Projeto de ciência de dados com foco na análise e modelagem estatística para cálculo da taxa de contaminação de indivíduos
 
-#### Pastas:
+### Pastas:
 
 - notebooks: pasta contendo os notebooks construídos no projeto
 
 - aux_files: pasta contendo os arquivos auxiliares e bases
 
-#### Descrição do problema
+### Descrição do problema
 Você é um funcionário da OMS que deve avaliar os níveis de contaminação de um vírus em um determinado país. As pessoas dentro de uma sociedade podem estar conectadas de alguma maneira (familia, amizade ou trabalho) e cada pessoa possui um conjunto de atributos. Este vírus afeta esta sociedade como descrito a seguir:
 
 - a taxa de contaminação varia de pessoa para pessoa;
@@ -21,12 +21,12 @@ Você é um funcionário da OMS que deve avaliar os níveis de contaminação de
 
 - não existe cura para essa doença;
 
-#### O desafio
+### O desafio
 
 Foram coletados os dados de contaminação (ou seja, as taxas de contaminação) para metade desta sociedade. Neste problema, você deverá estimar a taxa para o restante dessa sociedade e decidir políticas de saúde com base nos resultados obtidos.
 Observação: Para determinar as taxas de contaminação, devem ser levados em consideração tanto as características dos infectados quanto dos infectantes.
 
-#### Detalhes da base de dados
+### Detalhes da base de dados
 
 Para o desenvolvimento e resolução do problema considere os dois arquivos CSV:
 > individuos_espec.csv - contém características de cada indivíduo
