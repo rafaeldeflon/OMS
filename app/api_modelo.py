@@ -1,12 +1,12 @@
-# app.py
+# Imports
 from flask import Flask, request, jsonify
 import joblib
 import pandas as pd
 
-# Carregar o pipeline completo
+# Carregando a pipeline do modelo treinado
 model = joblib.load('modelo/xgb_pipeline.pkl')
 
-# Mesmas features que foram usadas no treino
+# Lista de features
 FEATURES = ['V1', 'V2', 'grau', 'proximidade', 'idade_V1', 'estado_civil_V1', 'qt_filhos_V1', 'estuda_V1', 
  'trabalha_V1', 'pratica_esportes_V1', 'transporte_mais_utilizado_V1', 'IMC_V1', 
  'idade_V2', 'estado_civil_V2', 'qt_filhos_V2', 'estuda_V2', 'trabalha_V2', 
