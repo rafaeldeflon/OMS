@@ -2,15 +2,19 @@
 
 ### Resumo:
 
-- Projeto de ciência de dados com foco na análise e modelagem estatística para cálculo da taxa de contaminação de indivíduos
+- Projeto de ciência de dados com foco na análise e modelagem estatística para cálculo da taxa de contaminação viral de indivíduos.
 
 ### Pastas:
 
 - notebooks: jupyter notebooks construídos no projeto
+    estudo_oms: arquivo de estudo e modelagem
+    modelo_exe: arquivo de teste da API
 
-- aux_files: arquivos auxiliares e bases
+- aux_files: arquivos auxiliares e base de conexões com a coluna de taxas prevista pelo modelo 'aux/conexoes_completo.csv'
 
 - modelo: arquivo do modelo utilizado
+
+- app: script com execução da API contendo o modelo
 
 ### Descrição do problema
 Você é um funcionário da OMS que deve avaliar os níveis de contaminação de um vírus em um determinado país. As pessoas dentro de uma sociedade podem estar conectadas de alguma maneira (familia, amizade ou trabalho) e cada pessoa possui um conjunto de atributos. Este vírus afeta esta sociedade como descrito a seguir:
