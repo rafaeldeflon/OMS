@@ -36,6 +36,8 @@ Você é um funcionário da OMS que deve avaliar os níveis de contaminação de
 Foram coletados os dados de contaminação (ou seja, as taxas de contaminação) para metade desta sociedade. Neste problema, você deverá estimar a taxa para o restante dessa sociedade e decidir políticas de saúde com base nos resultados obtidos.
 Observação: Para determinar as taxas de contaminação, devem ser levados em consideração tanto as características dos infectados quanto dos infectantes.
 
+---
+
 ### Detalhes da base de dados
 
 Para o desenvolvimento e resolução do problema considere os dois arquivos CSV:
