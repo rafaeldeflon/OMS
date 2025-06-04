@@ -18,6 +18,8 @@
 
 - app: script com execução da API contendo o modelo
 
+--- 
+
 ### Descrição do problema
 Você é um funcionário da OMS que deve avaliar os níveis de contaminação de um vírus em um determinado país. As pessoas dentro de uma sociedade podem estar conectadas de alguma maneira (familia, amizade ou trabalho) e cada pessoa possui um conjunto de atributos. Este vírus afeta esta sociedade como descrito a seguir:
 
