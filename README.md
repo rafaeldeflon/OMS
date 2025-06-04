@@ -9,6 +9,7 @@
 - notebooks: jupyter notebooks construídos no projeto
 
 >estudo_oms: arquivo de estudo e modelagem
+
 >modelo_exe: arquivo de teste da API
 
 - aux_files: arquivos auxiliares e base de conexões com a coluna de taxas prevista pelo modelo 'aux/conexoes_completo.csv'
